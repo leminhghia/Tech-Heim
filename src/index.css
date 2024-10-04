@@ -12,3 +12,10 @@
   font-weight: 400;
   font-style: normal;
 }
+a.active{
+  color: rgba(0, 0, 255, 0.741);
+}
+a.active hr{
+  display: block;
+  
+  }
