@@ -46,5 +46,10 @@ export const assets = {
     CiSearch,
     CiUser,
     CiSquareQuestion ,FaFacebookSquare,FaInstagram,FaYoutube,CiTwitter
- 
-}   
+
+}
+export const  products = [
+	{
+		
+	}
+]
