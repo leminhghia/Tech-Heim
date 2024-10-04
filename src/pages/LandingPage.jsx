@@ -1,7 +1,8 @@
+import { assets } from "../assets/assets"
 
 const LandingPage = () => {
   return (
-    <div className='text-red-700  bg-black '>LandingPage</div>
+    <div className='text-red-700  bg-black '></div>
   )
 }
 
